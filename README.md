@@ -3,8 +3,8 @@
 Back end do desafio 1 do bootcamp GoStack que trata-se de um aplicação para listar, criar, atualizar e deletar (CRUD) repositórios do github 
 
 # Pré-requisitos
-	 Node.js
-   yarn ou npm
+	Node.js
+   	Yarn ou npm
 
 # Tecnologias
 
